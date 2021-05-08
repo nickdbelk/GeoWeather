@@ -1,0 +1,105 @@
+#root {
+    background: rgb(26, 26, 26);
+}
+input:invalid {
+    border: 2px;
+    border-style: dotted;
+    background-color: #fc8d8d;
+
+}
+
+.column {
+    background: rgb(122, 196, 161);
+    border-style:none;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+}
+.yurt {
+    background: rgb(247, 228, 122);
+}
+.levels {
+    background: rgb(26, 26, 26);
+    
+    
+  }
+  .levelss {
+    background: rgb(26, 26, 26);
+    border-bottom: 5px solid rgb(26, 26, 26);
+    border-top: 5px solid rgb(26, 26, 26);
+  }
+  #scorePoster {
+    background: rgb(143, 164, 192);
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: rgb(143, 164, 192);
+    margin-top: 2px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    margin-left: 2px;
+
+  }
+  
+  img {
+    border-radius: 10px;
+  }
+  .blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+  }
+  #playball {
+    text-align: center;
+  }
+  body {
+      background-color: rgb(26, 26, 26);
+  }
+  #map {
+    height: 400px;
+        /* The height is 400 pixels */
+    width: 100%;
+        /* The width is the width of the web page */
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    display: none;        
+  }
+.modal-card {
+    width: 1200px;;
+}
+#editTime {
+    max-width: 100%;
+  height: 100px;
+  position:static;
+}
+#generatedcontent {
+    height:300px;
+    width: 97%;
+    overflow:scroll;
+
+}
+#leaderboard {
+    text-align: center;
+    color: hotpink;
+}
+html {background-color: rgb(26, 26, 26)}
+
+#corsunblock {
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.centerThis {display:block;text-align:center}
+
+
